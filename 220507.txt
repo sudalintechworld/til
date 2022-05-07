@@ -27,7 +27,7 @@
 -에러노트-
 1. push할 때 발생하는 에러
  1) 에러 내용 : Authentication failed for ~ use a personal access token instead
- 2) 해결법 : 토큰 만들고, 패스워드에 토큰 치면 됨…
+ 2) 해결법 : 토큰 새로 만들고, 설정-계정-패스워드에 토큰 치면 됨… 
 
 
 <느낀 점>
