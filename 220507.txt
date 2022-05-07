@@ -1,0 +1,32 @@
+<배운 것>
+-용어-
+1. 버전관리 : 프로젝트 변화 내용들을 관리하는 것. 
+2. Git 초기화 : 내 컴퓨터에 있는 프로젝트를 Git이 관리할 수 있게 설정하는 것.
+3. Commit : 누가, 언제, 어떻게 수정했는지의 정보와 프로젝트의 현재 상태!
+4. Commit 메시지 : 수정사항에 대해서 적는 메시지
+5. repo : Git으로 관리되는 프로젝트. repository의 약자.
+6. Push/pull : 원격 repo -> 로컬 repo(pull) / 로컬 repo -> 원격 repo(push)
+7. Add(staging) : 어떤 것을 올릴지 파일 선택하는 것
+8. Clone : 원격 repo를 내 컴퓨터로 가져와서 초기 repo 세팅하는 것을 clone이라고 한다.
+9. tracking : 로컬 repo와 원격 repo를 연결한다.
+
+-실행 방법-
+1. 로컬 repo에 저장하는 법
+ 1) 폴더 만들기
+ 2) txt파일 저장하기 (맥에서 txt파일은 텍스트입력기 - 포맷 - 일반 텍스트만들기)
+ 3) Opensource에 드래그함.
+2. Pull/push
+ 1) push누르고 계정 연결해준다.
+ 2) pull은 그냥 누르고 url 입력하면 되었던 듯?
+
+
+-에러노트-
+1. push할 때 발생하는 에러
+ 1) 에러 내용 : Authentication failed for ~ use a personal access token instead
+ 2) 해결법 : 토큰 만들고, 패스워드에 토큰 치면 됨…
+
+
+<느낀 점>
+툴을 배우는 것도 어렵다니, 개발자의 길은 멀고도 험하다.
+그런데 업데이트 반영되는 것이 신기해서 잘 사용하면 유용한 툴이 될 것 같다는 생각!
+나도 29cm같은 웹페이지 만들어볼거야.
